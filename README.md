@@ -1,24 +1,7 @@
-# todo-list
+簡易待辦事項清單
 
-## Project setup
-```
-npm install
-```
+代辦事項內容是自Fake JSON API接過來
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+由於尚無post功能API，所以目前沒辦法實際更動待辦事項內容
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+未來如有機會會在完善相關功能
